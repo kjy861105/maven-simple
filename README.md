@@ -1,7 +1,7 @@
 # example
 # test
 # test
-# test
+# 2023.02 베타
 
 Example Maven project generated using `maven-archetype-quickstart`
 
